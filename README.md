@@ -1,8 +1,6 @@
 # React, React-Bootstrap, Rails 
 
-Refer Justin Gordon and the Rails On Maui Team, http://www.railsonmaui.com
-
-
+Refer Justin Gordon and the Rails On Maui Team, http://www.railsonmaui.com/blog/2014/09/29/react-on-rails-4-dot-2-simple-tutorial/
 
 # Technologies involved
 
